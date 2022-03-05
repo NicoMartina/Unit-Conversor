@@ -1,0 +1,49 @@
+body{
+    margin-top: 718px 90px 83px 705px ;
+    background: #1F2937;
+}
+
+main{
+    width: 550px;
+height: 260px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+}
+
+#metric{width: 448.4px;
+    height: 38px;
+    left: 51px;
+    top: 53px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 38px;
+    /* identical to box height, or 173% */
+    
+    text-align: center;
+    letter-spacing: -0.05em;
+    
+    color: #FFFFFF;
+}
+
+#numbers{
+    width: 211px;
+height: 51.23px;
+left: 169px;
+top: 155px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 800;
+font-size: 97.5723px;
+line-height: 24px;
+/* or 25% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
