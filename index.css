@@ -14,8 +14,8 @@ background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
 
 #metric{width: 448.4px;
     height: 38px;
-    left: 51px;
-    top: 53px;
+    margin-left: 51px;
+    margin-top: 53px;
     
     font-family: Inter;
     font-style: normal;
@@ -32,18 +32,18 @@ background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
 
 #numbers{
     width: 211px;
-height: 51.23px;
-left: 169px;
-top: 155px;
+    height: 51.23px;
+    margin-left: 169px;
+    margin-top: 155px;
 
-font-family: Inter;
-font-style: normal;
-font-weight: 800;
-font-size: 97.5723px;
-line-height: 24px;
-/* or 25% */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 97.5723px;
+    line-height: 24px;
+    /* or 25% */
 
-text-align: center;
+    text-align: center;
 
-color: #FFFFFF;
-}
+    color: #FFFFFF;
+    }
